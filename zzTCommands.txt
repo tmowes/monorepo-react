@@ -1,0 +1,6 @@
+git init
+yarn init -y
+code .
+##mkdir packages
+
+1:05:00
